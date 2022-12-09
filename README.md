@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=omkar2064&show_icon=true&theme=dark"width="400">
+[![GitHub Streak](https://github.readme-streak-stats.herokuapp.com?user=omkar2064)](https://git.io/streak-stats)
