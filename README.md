@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**omkar-phadtare/omkar-phadtare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**omkar-phadtare/omkar-phadtare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+-->
+<img src="https://github-readme-stats.vercel.app/api?username=omkar-phadtare&show_icon=true&theme=dark"width="400">
